@@ -4,7 +4,7 @@ Welcome to Stellar-Final-Projects, a collection of innovative and cutting-edge p
 
 ## Student Projects:
 
-- Simple Token Project - [ANURAJ KUMAR](https://github.com/anurajkumarchaurasiya/blockchain)
+- Simple Token Project - [Anuraj Kumar](https://github.com/anurajkumarchaurasiya/blockchain)
 - Simple Token Project - [Monika Parmar](https://github.com/monika000000111111111/bgi1)
 - Simple Token Project - [Sachin Kumar Gupta](https://github.com/0506CS201036/BLOCKCHAIN_BOOTCAMP)
 - Simple Token Project - [Shekhar Lodhi](https://github.com/Shekharlodhi/soroban-birt)
@@ -16,3 +16,10 @@ Welcome to Stellar-Final-Projects, a collection of innovative and cutting-edge p
 - Simple Token Project - [Neetesh Kumar](https://github.com/Neetesh17/steller_birts7)
 - Simple Token Project - [Omkumar Karmele](https://github.com/omkarmele10/Stellar-Birts_1)
 - Simple Token Project - [Sadiya Khan](https://github.com/sadiyakhan2004/Risein-Final-Project)
+- Simple Token Project - [Nikhil Rajput](https://github.com/nikhilrajput15/soroban-bansal)
+- Simple Token Project - [Atul Saxena](https://github.com/Atul-Saxena/soroban-Birts)
+- Simple Token Project - [Satish Nagar](https://github.com/Satish-Nagar/my-first)
+- Simple Token Project - [Rani Pawar](https://github.com/ranipawar7777/ranipawar0077birt--college)
+- Simple Token Project - [Ritika Chourasiya](https://github.com/riti46/soroban-Birts)
+- Simple Token Project - [Siddharth Vishwakarma](https://github.com/Siddharthvish07/soroban)
+- Simple Token Project - [Anjana Singh](https://github.com/anjanasingh2003/soroban_1)
