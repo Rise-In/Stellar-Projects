@@ -1,4 +1,5 @@
-#Stellar-Final-Projects 🌌
+# Stellar-Final-Projects 🌌
+
 Welcome to Stellar-Final-Projects, a collection of innovative and cutting-edge projects developed by aspiring developers as part of the Stellar Bootcamp. 
 
 - [Umur Deniz](https://www.google.com)
