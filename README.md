@@ -4,3 +4,4 @@ Welcome to Stellar-Final-Projects, a collection of innovative and cutting-edge p
 
 - [Umur Deniz](https://www.google.com)
 - [Onder Durak](https://www.google.com)
+- [Melis Seyman](https://www.google.com)
