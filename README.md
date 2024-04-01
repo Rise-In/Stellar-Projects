@@ -5,6 +5,6 @@ Welcome to Stellar-Final-Projects, a collection of innovative and cutting-edge p
 ## Student Projects:
 
 - [Umur Deniz](https://www.google.com)
-- [ANURAJ KUMAR](https://github.com/anurajkumarchaurasiya/blockchain)
+- Simple Token Project - [ANURAJ KUMAR](https://github.com/anurajkumarchaurasiya/blockchain)
 - [Onder Durak](https://www.google.com)
 - [Melis Seyman](https://www.google.com)
