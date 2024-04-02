@@ -51,3 +51,4 @@ Welcome to Stellar-Final-Projects, a collection of innovative and cutting-edge p
 - Simple Token Project - [Rachit Khurana](https://github.com/notnotrachit/lumenlock)
 - Simple Token Project - [Gaurav Singh Bhandari](https://github.com/Gaurav7192/soroban-Birts)
 - Simple Token Project - [Rishi Jain](https://github.com/rishihjain/Soroban-Accelerated-Bootcamp-in-India-Final-Project)
+- LumenLock - [Rachit Khurana](https://github.com/notnotrachit/lumenlock)
