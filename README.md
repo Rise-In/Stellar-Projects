@@ -4,6 +4,8 @@ Welcome to Stellar-Final-Projects, a collection of innovative and cutting-edge p
 
 ## Student Projects:
 
+- LumenLock - [Rachit Khurana](https://github.com/notnotrachit/lumenlock)
+- StellarPay - [Leo Franklin](https://github.com/LeoFranklin015/StellarPay)
 - Simple Token Project - [Anuraj Kumar](https://github.com/anurajkumarchaurasiya/blockchain)
 - Simple Token Project - [Monika Parmar](https://github.com/monika000000111111111/bgi1)
 - Simple Token Project - [Sachin Kumar Gupta](https://github.com/0506CS201036/BLOCKCHAIN_BOOTCAMP)
@@ -51,6 +53,5 @@ Welcome to Stellar-Final-Projects, a collection of innovative and cutting-edge p
 - Simple Token Project - [Rachit Khurana](https://github.com/notnotrachit/lumenlock)
 - Simple Token Project - [Gaurav Singh Bhandari](https://github.com/Gaurav7192/soroban-Birts)
 - Simple Token Project - [Rishi Jain](https://github.com/rishihjain/Soroban-Accelerated-Bootcamp-in-India-Final-Project)
-- LumenLock - [Rachit Khurana](https://github.com/notnotrachit/lumenlock)
-- StellarPay - [Leo Franklin](https://github.com/LeoFranklin015/StellarPay)
+
 
