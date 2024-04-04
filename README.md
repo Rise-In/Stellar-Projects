@@ -50,8 +50,17 @@ Welcome to Stellar-Final-Projects, a collection of innovative and cutting-edge p
 - Simple Token Project - [Udit Namdev](https://github.com/coderudit2003/uditbirt)
 - Simple Token Project - [Nihal Pandey](https://github.com/Nihal-Pandey-2302/Final_Project)
 - Simple Token Project - [İ. Emre Can](https://github.com/xKaramizah/Risein_Soroban_Bootcamp)
-- Simple Token Project - [Rachit Khurana](https://github.com/notnotrachit/lumenlock)
 - Simple Token Project - [Gaurav Singh Bhandari](https://github.com/Gaurav7192/soroban-Birts)
 - Simple Token Project - [Rishi Jain](https://github.com/rishihjain/Soroban-Accelerated-Bootcamp-in-India-Final-Project)
+- Simple Token Project - [Sanika Patil](https://github.com/sanikapatil06/Sanika-RiseIn)
+- Simple Token Project - [Arnav Dwivedi](https://github.com/arnav-1208/soroban-Birts)
+- Simple Token Project - [Sushmita Ray Choudhary](https://github.com/sushcancode/Soroban_Birts)
+- Simple Token Project - [Arjun Sahu](https://github.com/arjunsahu001/sotroban_bansal)
+- Simple Token Project - [Chandresh Ahirwar](https://github.com/chandresh9399/birt)
+- Simple Token Project - [Sohit Yadav](https://github.com/sohitydv/SOROBAN)
+- Simple Token Project - [Deepak Lodha](https://github.com/deepaklodha532/contractrust)
+- Simple Token Project - [Sakshi Shandilya](https://github.com/sakshishandilya123/soroban_birt_)
+- Simple Token Project - [Pawan Verman](https://github.com/pawanverman393/soroban-3)
+- Simple Token Project - [Priyanshu Goswami](https://github.com/Prince32277/bgi2)
 
 
