@@ -28,7 +28,6 @@ Welcome to Stellar-Final-Projects, a collection of innovative and cutting-edge p
 - Simple Token Project - [Utkarsh Ladla](https://github.com/utkarsh-ladla/Soroban-Final-Project)
 - Simple Token Project - [Yash Mohadikar](https://github.com/Yashx073/Risein-Yash)
 - Simple Token Project - [Afnan Pathan](https://github.com/Afnanpathan2004/Risen_Afnan)
-- Simple Token Project - [Ata Gürsel](https://github.com/ATAGRSL/contract)
 - Simple Token Project - [Faiz Qureshi](https://github.com/FaizQureshi17/faizqureshibootcampfinalcase)
 - Simple Token Project - [Ashutosh Shrivas](https://github.com/Ashutosh123098/Ashubansal)
 - Simple Token Project - [Farhaj Qureshi](https://github.com/Farhajqureshi/FarhajQureshi-Bootcamp-finalCase)
