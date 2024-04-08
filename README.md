@@ -61,5 +61,8 @@ Welcome to Stellar-Final-Projects, a collection of innovative and cutting-edge p
 - Simple Token Project - [Sakshi Shandilya](https://github.com/sakshishandilya123/soroban_birt_)
 - Simple Token Project - [Pawan Verman](https://github.com/pawanverman393/soroban-3)
 - Simple Token Project - [Priyanshu Goswami](https://github.com/Prince32277/bgi2)
+- Simple Token Project - [Gorav Jindal](https://github.com/Gorav22/Soroban)
+- Simple Token Project - [Um E Aimen](https://github.com/um-e-aimen/Rise-in)
+- Simple Token Project - [Shubham Mete](https://github.com/Shubhammete/Soroban-Accelerated-Bootcamp-Final-Project)
 
 
