@@ -64,5 +64,6 @@ Welcome to Stellar-Final-Projects, a collection of innovative and cutting-edge p
 - Simple Token Project - [Gorav Jindal](https://github.com/Gorav22/Soroban)
 - Simple Token Project - [Um E Aimen](https://github.com/um-e-aimen/Rise-in)
 - Simple Token Project - [Shubham Mete](https://github.com/Shubhammete/Soroban-Accelerated-Bootcamp-Final-Project)
+- Simple Token Project - [Shubham Avhad](https://github.com/savhad2510/final-project)
 
 
