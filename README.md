@@ -65,8 +65,8 @@ Welcome to Stellar-Final-Projects, a collection of innovative and cutting-edge p
 - Simple Token Project - [Um E Aimen](https://github.com/um-e-aimen/Rise-in)
 - Simple Token Project - [Shubham Mete](https://github.com/Shubhammete/Soroban-Accelerated-Bootcamp-Final-Project)
 - Simple Token Project - [Shubham Avhad](https://github.com/savhad2510/final-project)
-- Simple Token Project - [Daiwikmaheshwari](https://github.com/Yakshaproject/Yaksha1.0)
-- Simple Token Project - [Ayush Singh](https://github.com/ayushsingh82/Snooker)
-- Simple Token Project - [Shubham Avhad](https://github.com/savhad2510/final-project)
+- Medium Level Project - [Daiwikmaheshwari](https://github.com/Yakshaproject/Yaksha1.0)
+- Fullstack dApp - [Ayush Singh](https://github.com/ayushsingh82/Snooker)
+- Medium Level Project - [Shubham Avhad](https://github.com/savhad2510/final-project)
 
 
